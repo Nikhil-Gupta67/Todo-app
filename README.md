@@ -49,6 +49,7 @@ Your choice: 1
 Enter the task you want to add: Exercise
 Task 'Exercise' has been successfully added.
 ```
+![image alt](https://github.com/Nikhil-Gupta67/Todo-app/blob/main/Screenshot%202025-09-12%20084851.png?raw=true)
 
 ## How to Run
 1. Make sure you have Python installed (version 3.x recommended).
