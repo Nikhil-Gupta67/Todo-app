@@ -64,7 +64,7 @@ Task 'Exercise' has been successfully added.
 - `README.md`: Project documentation.
 
 ## Author
-Nikhil Gupta
+-Nikhil Gupta
 
 ---
 Feel free to modify or extend the app for your own needs!
