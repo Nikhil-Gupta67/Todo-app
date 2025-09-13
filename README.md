@@ -3,6 +3,7 @@
 A simple command-line TODO list application written in Python. This app allows users to manage their daily tasks interactively from the terminal.
 
 ## Features
+
 - **Add Tasks:** Add new tasks to your list at any time.
 - **Update Tasks:** Change the name of an existing task.
 - **Delete Tasks:** Remove tasks you no longer need.
@@ -10,12 +11,15 @@ A simple command-line TODO list application written in Python. This app allows u
 - **Exit:** Quit the application when finished.
 
 ## How It Works
+
 1. **Startup:**
+
    - When you run the app, you are greeted with a welcome message.
    - You are prompted to enter how many tasks you want to add initially. Enter a number (e.g., 3), then provide the names for each task.
    - The app displays your initial list of tasks.
 
 2. **Main Menu:**
+
    - You are presented with a menu to choose an operation:
      - `1 - Add`: Add a new task by entering its name.
      - `2 - Update`: Update an existing task by providing its current name and the new name.
@@ -29,6 +33,7 @@ A simple command-line TODO list application written in Python. This app allows u
    - If you enter an invalid option or a task name that does not exist (for update/delete), you will be prompted again.
 
 ## Example Usage
+
 ```
 ---- Welcome to TODO App ----
 Enter how many tasks you want to add initially: 2
@@ -52,6 +57,7 @@ Task 'Exercise' has been successfully added.
 ![image alt](https://github.com/Nikhil-Gupta67/Todo-app/blob/main/Screenshot%202025-09-12%20084851.png?raw=true)
 
 ## How to Run
+
 1. Make sure you have Python installed (version 3.x recommended).
 2. Open a terminal and navigate to the project directory.
 3. Run the app with:
@@ -60,11 +66,14 @@ Task 'Exercise' has been successfully added.
    ```
 
 ## File Structure
+
 - `todoapp.py`: Main application code.
 - `README.md`: Project documentation.
 
 ## Author
--Nikhil Gupta
+
+--Nikhil Gupta
 
 ---
+
 Feel free to modify or extend the app for your own needs!
