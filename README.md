@@ -1,4 +1,4 @@
-# TODO List App
+# TODO List Apps
 
 A simple command-line TODO list application written in Python. This app allows users to manage their daily tasks interactively from the terminal.
 
