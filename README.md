@@ -71,8 +71,6 @@ Task 'Exercise' has been successfully added.
 
 ## Author
 
---Nikhil Gupta
-
----
+---Nikhil Gupta---
 
 Feel free to modify or extend the app for your own needs!
