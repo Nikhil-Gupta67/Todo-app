@@ -73,4 +73,3 @@ Task 'Exercise' has been successfully added.
 
 ---Nikhil Gupta---
 
-Feel free to modify or extend the app for your own needs!
