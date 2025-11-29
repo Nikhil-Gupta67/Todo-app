@@ -71,5 +71,5 @@ Task 'Exercise' has been successfully added.
 
 ## Author
 
----Nikhil Gupta---
+---Nikhil Gupta
 
