@@ -166,6 +166,5 @@ def load_tasks(tasks):
             print(f"Error loading tasks: {e}")
     else:
         print("No saved tasks file found.")
-
 # Run the app
 task()
