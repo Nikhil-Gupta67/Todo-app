@@ -10,9 +10,9 @@ A simple command-line TODO list application written in Python. This app allows u
 - **View Tasks:** Display all current tasks in a numbered list.
 - **Exit:** Quit the application when finished.
 
-## How It Works
+## How It Works-
 
-1. **Startup:**
+1. **Startup:**-
 
    - When you run the app, you are greeted with a welcome message.
    - You are prompted to enter how many tasks you want to add initially. Enter a number (e.g., 3), then provide the names for each task.
