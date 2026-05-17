@@ -2,7 +2,7 @@
 
 A simple command-line TODO list application written in Python. This app allows users to manage their daily tasks interactively from the terminal.
 
-## Features
+## Features-
 
 - **Add Tasks:** Add new tasks to your list at any time.
 - **Update Tasks:** Change the name of an existing task.
